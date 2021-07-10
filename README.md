@@ -6,7 +6,6 @@ Digital and analog clock by using simple HTML and JS
 - HTML
 - CSS
 - JavaScript
-- SVG Image
 
 ## Features
 
